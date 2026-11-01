@@ -7,5 +7,19 @@ Omarchy, ripped out and ripened for MangoWM. Built on the old Omarchy, before th
 
 </div>
 
+## What's inside
+
+- MangoWC with Waybar, Rofi and Mako
+- Keyboard-first workflow
+- superfile, NetworkManager and a dmenu-style Wi-Fi picker
+- Official repo packages only (yay script optional)
+
+## Install
+
+```sh
+git clone https://github.com/tahfizhabib/ripearchy
+cd ripearchy && ./install.sh
+```
+
 > [!WARNING]
 > **Project disbanded.** This repo is no longer maintained and stays up only as a reference of the work.
